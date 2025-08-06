@@ -37,5 +37,5 @@ ENV/
 *.swo
 
 # Large data files (adjust as needed)
-*.bib
-*.csv
+# *.bib
+# *.csv
