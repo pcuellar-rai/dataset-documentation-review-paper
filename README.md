@@ -4,8 +4,15 @@ This repository contains the code and analysis for the dataset documentation rev
 
 ## Contents
 
+### Analysis Notebooks
 - `chi_quant_analysis.ipynb` - Quantitative analysis notebook for chi-square tests
 - `krippendorffs_alpha_coding.ipynb` - Inter-rater reliability analysis using Krippendorff's alpha
+
+### Data Files
+- `_Database_query_dataset_after_desk_rejects.bib` - Bibliography data after desk rejects
+- `_Database_query_dataset_all.bib` - Complete bibliography data from database query
+- `dataset_doc_quant_playground.csv` - Quantitative analysis dataset
+- `items_selection_sync.csv` - Item selection synchronization data
 
 ## Project Overview
 
@@ -23,4 +30,8 @@ The main analysis is contained in the Jupyter notebooks. Make sure you have the 
 
 ## Data
 
-Data files are not included in this repository for privacy/size reasons. Please refer to the project documentation for information about data sources and access.
+This repository includes the core data files needed for analysis:
+- Bibliography data from database queries (.bib files)
+- Processed datasets for quantitative analysis (.csv files)
+
+These files contain the research data used in the analysis notebooks.
