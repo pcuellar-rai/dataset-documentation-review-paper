@@ -39,3 +39,8 @@ ENV/
 # Large data files (adjust as needed)
 # *.bib
 # *.csv
+
+# Shell config files
+.zshrc
+.bashrc
+.bash_profile
